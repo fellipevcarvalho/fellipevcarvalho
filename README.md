@@ -13,7 +13,7 @@
 </p>  
 
 <p align="left"> 
-Graduado em Análise e Desenvolvimento de Sistemas, com pós-graduação em DevOps. Tenho experiência em Suporte, Infraestrutura de TI, Oracle Cloud, AWS e Azure, implementação de pipelines CI/CD, desenvolvimento em Python, shell script e PowerShell focado em automação, e banco de dados (PostgreSQL e Oracle). Atualmente, estou me pós-graduando em Inteligência Artificial & Machine Learning, aprofundando meus conhecimentos em tecnologias emergentes e suas aplicações no mercado.
+Graduado em Análise e Desenvolvimento de Sistemas, com pós-graduação em DevOps. Minhas principais skills são Desenvolvimento em Python (Django e Flask), banco de dados (PostgreSQL, Oracle, Mongo, MySQL e SQL Server), Linux e Docker. Atualmente, estou me pós-graduando em Inteligência Artificial & Machine Learning.
 </p>
 
 <p align="left">
