@@ -1,4 +1,4 @@
-## Welcomo to my Profile!  👋
+## Welcome to my Profile!  👋
 
 # Fellipe Carvalho
 
@@ -13,9 +13,9 @@
 </p>  
 
 <p align="left"> 
-Graduado em Análise e Desenvolvimento de Sistemas, com pós-graduação em DevOps. Minhas principais skills são Desenvolvimento em Python (Django e Flask), banco de dados (PostgreSQL, Oracle, Mongo, MySQL e SQL Server), Linux e Docker. Atualmente, estou me pós-graduando em Inteligência Artificial & Machine Learning.
+Graduado em Análise e Desenvolvimento de Sistemas, com pós-graduação em DevOps e IA. Minhas principais skills são Desenvolvimento em Python (Django e Flask), banco de dados (PostgreSQL, Oracle, Mongo, MySQL e SQL Server), Linux, Docker, virtualização de ambiente.
 </p>
 
 <p align="left">
-  🦄 <strong>Atualmente, estou focado em aprimorar meus conhecimentos em React Native, Expo e Redux</strong>
+  🦄 <strong>Atualmente estou focado em me especializar cada vez mais em DevOps.</strong>
 </p>
