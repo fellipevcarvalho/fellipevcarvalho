@@ -17,5 +17,5 @@ Graduado em Análise e Desenvolvimento de Sistemas, com pós-graduação em DevO
 </p>
 
 <p align="left">
-  🦄 <strong>Atualmente estou focado em me especializar cada vez mais em DevOps.</strong>
+   <strong>Atualmente estou focado em me especializar cada vez mais em DevOps.</strong>
 </p>
